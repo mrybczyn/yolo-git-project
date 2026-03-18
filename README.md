@@ -7,6 +7,6 @@ The final history we'd like to have is:
 
 kfnieqjfqpjfmfom
 
-- a Changelog file with sorted entries
+- a Changelog file
 - remove the strange string from the reoadme
 - and fix the typo above...
