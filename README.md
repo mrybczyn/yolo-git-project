@@ -8,3 +8,5 @@ The final history we'd like to have is:
 kfnieqjfqpjfmfom
 
 - a Changelog file with sorted entries
+- remove the strange string from the reoadme
+- and fix the typo above...
